@@ -1,0 +1,10 @@
+{
+  "name": "dump-ssm-parameters",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "w01fgang <sumin@unix-center.ru>",
+  "dependencies": {
+    "aws-sdk": "^2.443.0"
+  }
+}
